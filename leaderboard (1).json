@@ -1,0 +1,14 @@
+{
+  "player1": {
+    "name": "AAA",
+    "score": 100
+  },
+  "player2": {
+    "name": "BBB",
+    "score": 80
+  },
+  "player3": {
+    "name": "CCC",
+    "score": 60
+  }
+}
